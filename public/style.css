@@ -1,0 +1,40 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background: linear-gradient(325deg, #82a0bc 0%,#304d6d 50%,#545e75 100%);
+  font-family: 'Roboto', sans-serif;
+height: 100%;
+}
+img{
+  height: 200px;
+}
+li{
+  list-style-type: none;
+  font-size: 25px;
+}
+.display{
+  height: 300px;
+  background-color: #63adf2;
+  border-radius: 12px;
+  
+}
+ul h4{
+  margin-top: 0%;
+}
+.container, .bottom{
+  text-align: center;
+  color: aliceblue;
+  border-radius: 12px;
+}
+
+.col-sm-6{
+  background-color: #304d6d;
+  color: aliceblue;
+  border-radius: 12px;
+}
+#prompt{
+  color: aliceblue;
+}
+.jumbotron{
+  color: #304d6d;
+}
